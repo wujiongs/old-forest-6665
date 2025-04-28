@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "old-forest-6665",
+  "name": "todolist",
   "compatibility_date": "2025-04-01",
   "upload_source_maps": true,
   "main": "./server.ts",
